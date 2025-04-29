@@ -1,2 +1,3 @@
 .venv
 sp500_4h_tech_indicators.parquet
+sp500_1d_tech_indicators.parquet
